@@ -1,6 +1,0 @@
-ABM-TEMIL/
-├── client/             ← React + PWA + UI + Theme + Lang + Compose + Masked SMS
-├── server/             ← Express + Mail.tm + Mailgun + Twilio
-├── APKs/               ← ABM-TEMIL.apk
-├── Installers/         ← ABM-TEMIL-setup.exe
-└── README.md           ← Setup, run, build, test guide
