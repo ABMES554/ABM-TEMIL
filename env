@@ -1,9 +1,0 @@
-# Mailgun
-MAILGUN_API_KEY=your_mailgun_api_key
-MAILGUN_DOMAIN=sandboxxxxxxxxx.mailgun.org
-MAIL_FROM=ABM TEMIL <noreply@yourdomain.com>
-
-# Twilio (for SMS)
-TWILIO_SID=your_twilio_sid
-TWILIO_AUTH_TOKEN=your_twilio_auth_token
-TWILIO_PHONE=+1234567890
